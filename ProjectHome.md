@@ -1,0 +1,1 @@
+A port of the DD-WRT distribution for the Beagle Board XM and an associated USB Wireless card. The hope is to eventually create an expansion module with integrated wireless.
